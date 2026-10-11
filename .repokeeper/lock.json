@@ -1,6 +1,6 @@
 {
   "lockVersion": 1,
-  "standard": "1.4.1",
+  "standard": "1.4.4",
   "entries": [
     {
       "id": "block:.gitattributes#editorconfig",
@@ -108,7 +108,7 @@
     {
       "id": "file:CONTRIBUTING.md",
       "module": "health",
-      "hash": "540ea33a02c6f567a1f9b5080a885040d9e3c17ef3015aaa423c7b6defa90bf6",
+      "hash": "4b4ff048baa25ab462ce92e4a2f567cc22d27d5928e9b9c1fda34465ff0f26fb",
       "target": {
         "kind": "file",
         "path": "CONTRIBUTING.md"

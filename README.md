@@ -15,3 +15,4 @@ The CI, the releases and the dependency updates of this repository are set up by
 
 The settings are in [`.repokeeper.yml`](.repokeeper.yml); [all pull requests](https://github.com/vannt-dev/repokeeper-demo-rust/pulls?q=is%3Apr) and
 [releases](https://github.com/vannt-dev/repokeeper-demo-rust/releases) show the rest.
+
